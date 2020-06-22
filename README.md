@@ -3,7 +3,7 @@ Java 관련 기초공부를 진행했던 소스입니다.
 
 JAVA src 경로찾기
 
-1.Eclipse workspace
+## 1.Eclipse workspace
 A1_Hello
 -	A1 #기본자료형
 -	A2 #형변환#산술연산자#자동증감연산자
@@ -40,7 +40,7 @@ A91_ARRAY_test2
 -	A91 #연습문제
 -	A92,3,4 #연습문제
 
-2.OOP(Object-Oriented Programming) workspace
+## 2.OOP(Object-Oriented Programming) workspace
 A1_OOP
 -	Voi #객체지향main #메소드사용
 -	Voi2 #메소드구성
@@ -65,7 +65,8 @@ A4_Static_inheritance
 -	Voi4 #상속
 A5_GUI
 A6_GUI2
-3.Html Jsp Survlet workspace
+
+## 3.Html Jsp Survlet workspace
 A1_new_html
 -	A1 html의 기본 태그를 정리함.
 -	A2 테이블 태그를 정리함
@@ -85,7 +86,6 @@ A3_Request
 -	A1 requst 내 서버의 정보 요청하기
 -	A2 getparameter 입력값
 -	A3 콤보 라디오 박스에서 배열로 값 가져오기
-
 A4_Response
 -	A1 response.sendredirect 다음 주소로 이동시킴
 -	A2 get 방식에서 url 주소로 변수값을 넘겨주는 방식 / 
@@ -105,7 +105,7 @@ A8_Cookie
 A9_Session
 -	A1,2 세션 데이터 설정 불러오기 지우기
 
-4.ReWeb workspace
+## 4.ReWeb workspace
 A1_UserMgmt_T (Servlet)
 -	#survlet #기초 #입력 #수정 #삭제 #검색 #각각
 A2_AddressBook_T (Servlet)
@@ -122,7 +122,7 @@ A9_Project_board (JSP)
 -	#JSP #연습용 #프로젝트 #게시판 #입력 #수정 #삭제 #검색 #연동
 -	데이터베이스 주소 변경필요
 
-5.R Connec workspace
+## 5.R Connec workspace
 A1_Rtest
 -	A1 #Java R연결 #R변수자바에서 
 -	A2 #head(iris)
@@ -132,5 +132,5 @@ A2_RjavaTest
 A3_RjspTest
 -	Rjso #합계 #평균 #헤더 #컬럼갯수 #로우수 #JSP에 png
 
-6. MVC pattern workspace
+## 6. MVC pattern workspace
 
