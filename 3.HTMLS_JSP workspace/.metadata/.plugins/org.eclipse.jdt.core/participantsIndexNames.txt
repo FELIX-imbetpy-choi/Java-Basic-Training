@@ -1,0 +1,61 @@
+INDEX VERSION 1.131
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\229535026.index
+\B_Test\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3927259308.index
+\A4_Response\src
+C:\Temp\BigData class src\3.HTMLS_JSP workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2509750631.index
+\A2_new_jsp\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2503710699.index
+\A55_Application\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3700045188.index
+\Addition\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2509750631.index
+\A2_new_jsp\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3817042697.index
+\A44_Response\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2279749893.index
+\B_testnote\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3856808152.index
+\A5_Application\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\600723692.index
+\A7_Survlet_S\src
+C:\Temp\BigData class src\3.HTMLS_JSP workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1982186214.index
+\A3_Request\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\302916727.index
+\A1_Suvlet\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1069927090.index
+\A33_Request\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1982186214.index
+\A3_Request\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2471665389.index
+\A8_Cookie\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1152392885.index
+\A9_Cookie\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2304749113.index
+\A9_Session\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3058572391.index
+\A44_Response\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1471243698.index
+\Sum\src
+C:\Temp\BigData class src\3.HTMLS_JSP workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2471665389.index
+\A8_Cookie\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1017976461.index
+\A1_suvlet\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2640582969.index
+\A1_Suvlet\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2830615768.index
+\HelloWorld\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1130438208.index
+\A6_Suvlet_S\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\887501868.index
+\A6_Survlet_S\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\339661478.index
+\App_01\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1135430317.index
+\A22_new_jsp\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\530684109.index
+\Request\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2897273642.index
+\2Dan\src
+C:\Temp\BigData class src\4.Suvlet workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\791135214.index
+\Response\src

@@ -1,0 +1,5 @@
+private void insertFruit()
+   {
+      String stFruit = tfNewfruit.getText();
+      cbFruits.addItem(stFruit);
+   }

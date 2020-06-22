@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Temp\BigData class src\6. MVC pattern\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2684983642.index
+3689519981.index
+2302691887.index
+2897140082.index
+86778755.index
+575825372.index

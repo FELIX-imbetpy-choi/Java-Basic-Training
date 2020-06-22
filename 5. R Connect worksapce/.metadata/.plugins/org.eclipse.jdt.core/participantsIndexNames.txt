@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Temp\BigData class src\6. R Connect worksapce\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3793567741.index
+\A3_RJspTest\src
+C:\Temp\BigData class src\5. R Connect worksapce\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3793567741.index
+\A3_RJspTest\src
+C:\Temp\BigData class src\6. R Connect worksapce\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1321747175.index
+\RJspTest\src

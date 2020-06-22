@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;A4_MDIAddress/src/com.address.function&apos;&#x0D;&#x0A;- Original project: &apos;A3_EAddress2&apos;&#x0D;&#x0A;- Destination element: &apos;A4_MDIAddress/src/com.address.function&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.address.function.Bean.java&#x0D;&#x0A;     com.address.function.ShareVar.java&#x0D;&#x0A;     com.address.function.DbAction.java" description="Copy compilation units" destination="=A4_MDIAddress/src&lt;com.address.function" element1="/src&lt;com.address.function{Bean.java" element2="/src&lt;com.address.function{ShareVar.java" element3="/src&lt;com.address.function{DbAction.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1540886784224" units="3" version="1.0"/>
+</session>

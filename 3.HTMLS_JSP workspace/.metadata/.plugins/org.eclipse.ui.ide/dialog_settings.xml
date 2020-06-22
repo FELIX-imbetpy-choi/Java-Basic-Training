@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Temp\BigData class src\5. Web workspace"/>
+		<item value="C:\Temp\BigData class src\2.OOP workspace\A5_Gui"/>
+		<item value="C:\Temp\BigData class src\2.OOP workspace\A6_Gui2"/>
+		<item value="C:\Users\GSCHOI\Desktop\BROSsrc20181019\A2_afterHtml"/>
+		<item value="C:\Users\GSCHOI\Desktop\BROSsrc20181019\bbb"/>
+		<item value="C:\Temp\BigData class src\3.Html_Jsp workspace"/>
+	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="545" key="DIALOG_X_ORIGIN"/>
+		<item value="209" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Temp\BigData class src\6. MVC pattern\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\86778755.index
+\MVC\src
+C:\Temp\BigData class src\7. MVC pattern\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\86778755.index
+\MVC\src
+C:\Temp\BigData class src\7. MVC pattern\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2481712105.index
+\MVC2\src

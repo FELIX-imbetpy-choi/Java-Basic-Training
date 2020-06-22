@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.address.function.Dbaction"/>
+<fullyQualifiedTypeName name="com.address.function.AddressInsert"/>
+<fullyQualifiedTypeName name="com.address.function.AddressSearch"/>
+<fullyQualifiedTypeName name="com.address.function.AddressDelete"/>
+<fullyQualifiedTypeName name="java.awt.ScrollPane"/>
+<fullyQualifiedTypeName name="javax.mail.PasswordAuthentication"/>
+<fullyQualifiedTypeName name="javax.mail.Authenticator"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="javax.mail.internet.AddressException"/>
+<fullyQualifiedTypeName name="javax.mail.MessageRemovedException"/>
+<fullyQualifiedTypeName name="javax.mail.MessagingException"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="javax.mail.Session"/>
+<fullyQualifiedTypeName name="org.apache.catalina.Session"/>
+<fullyQualifiedTypeName name="javax.mail.Message"/>
+</qualifiedTypeNameHistroy>

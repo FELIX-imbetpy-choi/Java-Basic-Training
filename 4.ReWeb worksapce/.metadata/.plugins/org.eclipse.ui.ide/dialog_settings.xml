@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Temp\BigData class src\Foogle\A99_FinalFoogle_Admin2"/>
+		<item value="C:\Users\GSCHOI\Desktop\Foogle(V7.0) final 20181109\Foogle"/>
+		<item value="C:\Users\GSCHOI\Desktop\18.11.08(이메일ing)\Foogle"/>
+		<item value="C:\Users\GSCHOI\Desktop\email\EmailSendingWebApp"/>
+		<item value="C:\Users\GSCHOI\Desktop\java-mail-master"/>
+		<item value="C:\james-2.2.0\apps\james\SAR-INF"/>
+		<item value="C:\Users\GSCHOI\Desktop\Foogle(V5.0)\Foogle"/>
+		<item value="C:\Users\GSCHOI\Desktop\방제윤"/>
+		<item value="C:\Users\GSCHOI\Desktop\18.11.06(pm03)"/>
+		<item value="C:\Users\GSCHOI\Desktop\18.11.06(pm03)\Foogle"/>
+		<item value="C:\Temp\BigData class src\4.Suvlet workspace\A2_new_jsp"/>
+		<item value="C:\Users\GSCHOI\Desktop\0 예비 게시판 phoenix(v1.0) beta\Board"/>
+		<item value="C:\Temp\BigData class src\4.Suvlet workspace\A4_Response"/>
+		<item value="C:\Temp\BigData class src\4.Suvlet workspace\A1_new_html"/>
+		<item value="C:\Temp\BigData class src\4.Suvlet workspace\A9_Session"/>
+		<item value="C:\Temp\BigData class src\EAddress"/>
+		<item value="C:\Temp\BigData class src\User_addressbook"/>
+		<item value="C:\Temp\BigData class src\10.30"/>
+		<item value="C:\Temp\BigData class src\5. Web workspace"/>
+		<item value="C:\Users\GSCHOI\Desktop\BefD\선생님\BigData\workspace"/>
+	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="545" key="DIALOG_X_ORIGIN"/>
+		<item value="209" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

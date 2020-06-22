@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="115" stop-timeout="15" testEnvironment="true" timestamp="26">
+    <list key="modules" value0="A6_Survlet_S::org.eclipse.jst.jee.server:A6_Survlet_S::jst.web::3.1" value1="A7_Survlet_S::org.eclipse.jst.jee.server:A7_Survlet_S::jst.web::3.1" value2="A1_new_html::org.eclipse.jst.jee.server:A1_new_html::jst.web::3.1" value3="A2_new_jsp::org.eclipse.jst.jee.server:A2_new_jsp::jst.web::3.1" value4="B_Test::org.eclipse.jst.jee.server:B_Test::jst.web::3.1" value5="A3_Request::org.eclipse.jst.jee.server:A3_Request::jst.web::3.1" value6="A4_Response::org.eclipse.jst.jee.server:A4_Response::jst.web::3.1" value7="A5_Application::org.eclipse.jst.jee.server:A5_Application::jst.web::3.1" value8="A8_Cookie::org.eclipse.jst.jee.server:A8_Cookie::jst.web::3.1" value9="A9_Session::org.eclipse.jst.jee.server:A9_Session::jst.web::3.1"/>
+  </server>
+</servers>

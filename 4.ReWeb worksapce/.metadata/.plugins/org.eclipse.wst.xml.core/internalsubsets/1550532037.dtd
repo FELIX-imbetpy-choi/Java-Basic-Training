@@ -1,0 +1,4 @@
+
+<!ENTITY listserverConfig SYSTEM "../conf/james-listmanager.xml">
+<!ENTITY listserverStores SYSTEM "../conf/james-liststores.xml">
+<!ENTITY fetchmailConfig SYSTEM "../conf/james-fetchmail.xml">

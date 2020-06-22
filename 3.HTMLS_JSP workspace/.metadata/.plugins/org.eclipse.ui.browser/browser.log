@@ -1,0 +1,65 @@
+
+10월 19, 2018 16:00:15.59 NEW SESSION
+10월 19, 2018 16:00:15.59 [10996:2172:1019/160015.586:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 19, 2018 16:00:25.18 [1296:3752:1019/160025.182:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 19, 2018 16:12:54.63 [17640:7280:1019/161254.634:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+10월 19, 2018 16:30:56.43 [17640:18796:1019/163056.435:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 19, 2018 17:14:04.03 [8808:14384:1019/171404.032:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 19, 2018 17:49:51.28 [17012:18132:1019/174951.283:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 19, 2018 17:49:54.67 [17012:18132:1019/174954.678:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+10월 19, 2018 17:50:07.74 [17012:8444:1019/175007.743:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+10월 19, 2018 17:57:15.86 NEW SESSION
+10월 19, 2018 17:57:15.86 [19484:17188:1019/175715.859:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 19, 2018 18:05:33.51 [14712:9896:1019/180533.516:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+10월 21, 2018 19:09:38.90 NEW SESSION
+10월 21, 2018 19:09:38.90 [6800:15580:1021/190938.877:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 21, 2018 19:32:09.49 [18256:8924:1021/193209.498:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+10월 22, 2018 09:00:00.09 NEW SESSION
+10월 22, 2018 09:00:00.09 [16416:21480:1022/090000.088:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+10월 22, 2018 09:00:25.87 [16416:21480:1022/090025.874:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+10월 22, 2018 09:00:33.85 [16416:880:1022/090033.849:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Connection failed (-106).
+10월 22, 2018 09:01:17.25 [16416:21480:1022/090117.258:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+10월 22, 2018 09:02:55.71 [16416:21480:1022/090255.712:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+10월 22, 2018 09:05:54.80 [16416:21480:1022/090554.800:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+10월 22, 2018 09:07:44.58 [16416:880:1022/090744.578:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+10월 22, 2018 09:08:10.43 [16416:880:1022/090810.430:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+10월 22, 2018 09:08:57.81 [16416:880:1022/090857.817:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+10월 22, 2018 11:30:17.62 NEW SESSION
+10월 22, 2018 11:30:17.62 [11984:7572:1022/113017.625:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -100
+10월 22, 2018 11:30:17.63 [11984:7572:1022/113017.625:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -100
+10월 22, 2018 11:53:37.86 [11984:12428:1022/115337.858:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 22, 2018 12:05:04.40 [7136:17900:1022/120504.407:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+10월 22, 2018 12:05:23.73 [7136:17900:1022/120523.734:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -105
+10월 22, 2018 12:05:33.14 [7136:17900:1022/120533.139:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -105
+10월 22, 2018 12:39:23.79 [7136:6748:1022/123923.742:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+10월 22, 2018 12:42:35.91 [7136:6748:1022/124235.912:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+10월 22, 2018 13:40:53.39 [7136:17900:1022/134053.160:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 22, 2018 13:40:58.05 [7136:17900:1022/134058.057:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+10월 22, 2018 13:52:25.85 [7136:19112:1022/135225.851:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 22, 2018 14:45:46.40 [13896:8924:1022/144546.403:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 22, 2018 15:30:00.23 [12560:368:1022/153000.231:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 22, 2018 17:00:47.26 [1992:9692:1022/170047.263:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -100
+10월 22, 2018 17:19:07.59 [1992:20960:1022/171907.591:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:19:08.48 [1992:20960:1022/171908.482:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:19:09.37 [1992:20960:1022/171909.378:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:24:23.20 [1992:20960:1022/172423.207:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:24:24.11 [1992:20960:1022/172424.111:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:24:24.98 [1992:20960:1022/172424.981:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:29:27.33 [1992:20960:1022/172927.330:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:29:28.20 [1992:20960:1022/172928.199:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:29:29.08 [1992:20960:1022/172929.080:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:29:29.97 [1992:20960:1022/172929.969:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:34:34.50 [1992:20960:1022/173434.504:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:34:35.38 [1992:20960:1022/173435.389:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+10월 22, 2018 17:34:36.29 [1992:20960:1022/173436.293:ERROR:latency_info.cc(144)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+
+10월 22, 2018 19:58:49.42 NEW SESSION
+10월 22, 2018 19:58:49.42 [6928:7808:1022/195849.416:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+10월 22, 2018 20:00:44.59 [6928:5260:1022/200044.598:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+10월 28, 2018 19:36:10.12 NEW SESSION
+10월 28, 2018 19:36:10.12 [1536:12524:1028/193610.118:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED

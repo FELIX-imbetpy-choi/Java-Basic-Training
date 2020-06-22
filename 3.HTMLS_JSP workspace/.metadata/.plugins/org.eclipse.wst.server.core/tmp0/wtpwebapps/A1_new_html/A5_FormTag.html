@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Form Tag / 사용자 가입양식 만들기</title>
+<!-- 20181021 복습완료 ★ -->
+
+</head>
+<body>
+
+<table border = "0">
+
+<!-- tip. 각 명령이 들어갈 자리에 *나 다른 표시를 사용해 표시한 후 찾아 바꾸기 하면 금방 작업할 수 있다. -->
+<!-- + get 방식과 post 방식이 있다 post 는 뒤에 변수가 다 표신된다. -->
+<!-- + input type = 삽입될 형식의 종류 name = 변수명 value = 변수안의 각 값 -->
+<!-- ??form action? 어떤 역할을 하는 건가? form tag 구성 전부 다 찾아서 이해하기-->
+
+<!-- Form Tag 학습 -->
+
+	<form action = "#" method = "get">
+
+
+    <table border="0" align = "center">
+
+<!-- 1. text - 글씨를 쓸 수 있는 text feild -->
+      <tr>
+     	 <td>이름 : </td>
+    	 <td><input type ="text"name="uerName"/><br/></td>
+      </tr>
+      
+      <tr>
+         <td>아이디 : </td>
+         <td><input type ="text"name="userId"/><br/></td>
+      </tr>
+      
+<!-- 2. password - 자동으로 비밀번호 입력란이 생성됨 - 값을 받아올땐 숫자로 받아온다. -->
+      <tr>
+         <td> 패스워드 : </td>
+         <td><input type ="password"name="userId"/><br/></td>
+      </tr>
+      
+      <tr>
+         <td>연락처 : </td>
+         <td>
+           	<input type ="text"name="phone01"size = "5"/>-
+           	<input type ="text"name="phone02"size = "5"/>-
+          	<input type ="text"name="phone03"size = "5"/><br/>
+         </td>
+      </tr>
+      
+<!-- 3. file - 사용자의 컴퓨터의 파일을 삽입할 수 있는 tag 생성 -->
+      <tr>
+         <td>사진 : </td>
+         <td><input type ="file"name="picture"/><br/></td>
+      </tr>
+      
+<!-- 4. radio box - radio box는 한가지 선택을 할 수 있게 만든 체크form - checked 가 선언되면 처음 화면에 하나가 선택되어 있다. -->
+      <tr>
+         <td>성별구분 : </td>
+         <td>
+            <input type ="radio"name="gender"value="man"checked="checked"/>남
+         	<input type ="radio"name="gender"value="woman"/>여<br/>
+         </td>
+      </tr>
+      
+<!-- 5. checkbox - 여러가지 선택사항을 넣을 수 있는 form - 값을 받아오려면 변수를 다르게 받거나, 배열을 생성 해야한다. -->
+         <tr>
+         <td>사용언어 : </td>
+         <td>
+           	<input type="checkbox"name="lang"value="kor"/>한글
+          	<input type="checkbox"name="lang"value="eng"/>영어
+          	<input type="checkbox"name="lang"value="jpn"/>일본어
+        	<input type="checkbox"name="lang"value="chn"/>중국어<br/>
+         </td>
+      </tr>
+      
+<!-- 6. textarea - 텍스트 박스를 생성한다. rows는 아래로 줄 cols 는 횡으로 줄 길이를 설정한다. -->
+         <tr>
+         <td>자기소개 :</td>
+         <td><textarea rows="5" cols="20">간단하게 입력하세요.</textarea><br/></td>
+      </tr>
+      
+<!-- 7. List box 는 스크롤 형식의 체크형식이다. multiple을 작성하면 한번에 많은 리스트를 볼 수 있게 한다. -->
+         <tr>
+         <td>국적 : </td>
+         <td>
+           	<select>
+           	<option>Korea</option>
+          	<option>USA</option>
+           	<option>Japan</option>
+           	<option>China</option>                  
+        	</select><br/>
+         </td>
+      </tr>
+      
+         <tr>
+         <td>좋아하는 음식 : </td>
+         <td>
+            <select multiple = "multiple">
+            <option>김치</option>
+            <option>불고기</option>
+            <option>파전</option>
+            <option>비빔밥</option>
+            <option>냉면</option>
+            <option>순대</option>
+            </select><br/>
+         </td>
+         </tr>
+      
+      <tr>
+         <td></td>
+         <td align = "left">
+         <input type = "submit"name = "okBtn"value="ok">
+         </td>
+      </tr> 
+      
+        
+   </table>
+   </form>
+	
+
+</body>
+</html>

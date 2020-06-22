@@ -1,0 +1,13 @@
+1540177091009	Rename resource 'A1_Cookie.jsp'
+1540177098910	Rename resource 'A2_Cookie_Check.jsp'
+1540177106369	Rename resource 'A3_Cookie_Change.jsp'
+1540177116667	Rename resource 'A4_Cookie_Delete.jsp'
+1540178096475	Delete element
+1540187815216	Rename resource 'Test.jsp'
+1540187830524	Rename resource 'A1_1CookieTest.jsp'
+1540187838380	Rename resource 'Test2.jsp'
+1540187846393	Rename resource 'Test3.jsp'
+1540205095963	Move 'A3_1CookieTest.jsp' to 'WebContent'
+1540205100406	Move 'A3_2CookieTest.jsp' to 'WebContent'
+1540205104137	Move 'A3_3CookieTest.jsp' to 'WebContent'
+1540205108342	Move 'A3_4CookieTest.jsp' to 'WebContent'

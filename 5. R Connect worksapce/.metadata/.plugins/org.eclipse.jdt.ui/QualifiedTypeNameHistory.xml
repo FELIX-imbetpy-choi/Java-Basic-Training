@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.rosuda.REngine.REngineException"/>
+<fullyQualifiedTypeName name="org.rosuda.REngine.Rserve.RFileInputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.rlec.function.RserveTest2"/>
+<fullyQualifiedTypeName name="com.rlec.test.RJsp"/>
+<fullyQualifiedTypeName name="org.rosuda.REngine.REXP"/>
+<fullyQualifiedTypeName name="org.rosuda.REngine.Rserve.RConnection"/>
+<fullyQualifiedTypeName name="org.rosuda.REngine.Rserve.RserveException"/>
+<fullyQualifiedTypeName name="org.rosuda.REngine.REXPMismatchException"/>
+<fullyQualifiedTypeName name="org.rosuda.REngine.RList"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.rlec.function.RserveTest"/>
+</qualifiedTypeNameHistroy>

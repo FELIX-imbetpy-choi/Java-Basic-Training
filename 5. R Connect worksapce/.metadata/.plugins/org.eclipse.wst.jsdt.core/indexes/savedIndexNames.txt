@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Temp\BigData class src\5. R Connect worksapce\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3366416073.index
+3793567741.index
+2379176864.index
+2706960211.index
+1126215081.index
+1752007764.index

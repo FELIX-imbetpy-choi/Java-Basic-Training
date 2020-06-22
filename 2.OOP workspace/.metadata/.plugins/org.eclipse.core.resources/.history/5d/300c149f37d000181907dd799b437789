@@ -1,0 +1,315 @@
+package voi;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JMenuBar;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+import javax.swing.JCheckBox;
+import javax.swing.JRadioButton;
+import javax.swing.JButton;
+import javax.swing.JMenu;
+import javax.swing.JMenuItem;
+import javax.swing.ButtonGroup;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+
+public class A91_GUi extends JFrame {
+
+	private JPanel contentPane;
+	private JMenuBar menuBar;
+	private JLabel lblNewLabel;
+	private JTextField tfPass;
+	private JLabel lblName;
+	private JTextField tfName;
+	private JLabel lblAdress;
+	private JTextField tfAdr;
+	private JLabel lblHobby;
+	private JLabel lblFruits;
+	private JLabel lblUserId;
+	private JTextField tfID;
+	private JCheckBox cb1;
+	private JCheckBox cb2;
+	private JCheckBox cb3;
+	private JRadioButton rb1;
+	private JRadioButton rb2;
+	private JRadioButton rb3;
+	private JButton btnIN;
+	private JMenu MN1;
+	private JMenu MN2;
+	private JMenuItem MN1_mn1;
+	private JMenuItem MN2_mn1;
+	private final ButtonGroup buttonGroup = new ButtonGroup();
+	private final ButtonGroup buttonGroup_1 = new ButtonGroup();
+	//비밀번호 설정
+	int passa = 12345;
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		//비밀번호 설정
+		
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					A91_GUi frame = new A91_GUi();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public A91_GUi() {
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 587, 402);
+		setJMenuBar(getMenuBar_1());
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+		contentPane.add(getLblNewLabel());
+		contentPane.add(getTfPass());
+		contentPane.add(getLblName());
+		contentPane.add(getTfName());
+		contentPane.add(getLblAdress());
+		contentPane.add(getTfAdr());
+		contentPane.add(getLblHobby());
+		contentPane.add(getLblFruits());
+		contentPane.add(getLblUserId());
+		contentPane.add(getTfID());
+		contentPane.add(getCb1());
+		contentPane.add(getCb2());
+		contentPane.add(getCb3());
+		contentPane.add(getRb1());
+		contentPane.add(getRb2());
+		contentPane.add(getRb3());
+		contentPane.add(getBtnIN());
+	}
+	private JMenuBar getMenuBar_1() {
+		if (menuBar == null) {
+			menuBar = new JMenuBar();
+			menuBar.add(getMN1());
+			menuBar.add(getMN2());
+		}
+		return menuBar;
+	}
+	
+	//password ----------------------------------------------------
+	private JLabel getLblNewLabel() {
+		if (lblNewLabel == null) {
+			lblNewLabel = new JLabel("Password : ");
+			lblNewLabel.setBounds(64, 22, 74, 34);
+		}
+		return lblNewLabel;
+	}
+	private JTextField getTfPass() {
+		if (tfPass == null) {
+			tfPass = new JTextField();
+			tfPass.addActionListener(new ActionListener() {
+				
+				public void actionPerformed(ActionEvent arg0) {
+					// 패스워드 입력
+					String passb = tfPass.getText();
+					 int passc= Integer.parseInt(passb);
+					
+					if(passa == passc) {
+						lighton();
+					}
+					
+				}
+			});
+			tfPass.setBounds(150, 29, 127, 21);
+			tfPass.setColumns(10);
+		}
+		return tfPass;
+	}
+	private JLabel getLblName() {
+		if (lblName == null) {
+			lblName = new JLabel("Name");
+			lblName.setBounds(64, 110, 74, 34);
+			lblName.setVisible(false);
+		}
+		return lblName;
+	}
+	private JTextField getTfName() {
+		if (tfName == null) {
+			tfName = new JTextField();
+			tfName.setColumns(10);
+			tfName.setBounds(150, 117, 127, 21);
+			tfName.setVisible(false);
+		}
+		return tfName;
+	}
+	private JLabel getLblAdress() {
+		if (lblAdress == null) {
+			lblAdress = new JLabel("Adress");
+			lblAdress.setBounds(64, 154, 74, 34);
+			lblAdress.setVisible(false);
+		}
+		return lblAdress;
+	}
+	private JTextField getTfAdr() {
+		if (tfAdr == null) {
+			tfAdr = new JTextField();
+			tfAdr.setColumns(10);
+			tfAdr.setBounds(150, 161, 222, 21);
+			tfAdr.setVisible(false);
+		}
+		return tfAdr;
+	}
+	private JLabel getLblHobby() {
+		if (lblHobby == null) {
+			lblHobby = new JLabel("Hobby ");
+			lblHobby.setBounds(64, 198, 74, 34);
+			lblHobby.setVisible(false);
+		}
+		return lblHobby;
+	}
+	private JLabel getLblFruits() {
+		if (lblFruits == null) {
+			lblFruits = new JLabel("Fruits");
+			lblFruits.setBounds(64, 242, 74, 34);
+			lblFruits.setVisible(false);
+		}
+		return lblFruits;
+	}
+	private JLabel getLblUserId() {
+		if (lblUserId == null) {
+			lblUserId = new JLabel("User ID");
+			lblUserId.setBounds(64, 66, 74, 34);
+			lblUserId.setVisible(false);
+		}
+		return lblUserId;
+	}
+	private JTextField getTfID() {
+		if (tfID == null) {
+			tfID = new JTextField();
+			tfID.setColumns(10);
+			tfID.setBounds(150, 73, 127, 21);
+			tfID.setVisible(false);
+		}
+		return tfID;
+	}
+	private JCheckBox getCb1() {
+		if (cb1 == null) {
+			cb1 = new JCheckBox("축구");
+			buttonGroup.add(cb1);
+			cb1.setBounds(133, 204, 111, 23);
+			cb1.setVisible(false);
+		}
+		return cb1;
+	}
+	private JCheckBox getCb2() {
+		if (cb2 == null) {
+			cb2 = new JCheckBox("독서");
+			buttonGroup.add(cb2);
+			cb2.setBounds(262, 204, 111, 23);
+			cb2.setVisible(false);
+		}
+		return cb2;
+	}
+	private JCheckBox getCb3() {
+		if (cb3 == null) {
+			cb3 = new JCheckBox("맛집탐방");
+			buttonGroup.add(cb3);
+			cb3.setBounds(392, 204, 111, 23);
+			cb3.setVisible(false);
+		}
+		return cb3;
+	}
+	private JRadioButton getRb1() {
+		if (rb1 == null) {
+			rb1 = new JRadioButton("빠나나");
+			rb1.setSelected(true);
+			buttonGroup_1.add(rb1);
+			rb1.setBounds(146, 253, 70, 23);
+			rb1.setVisible(false);
+		}
+		return rb1;
+	}
+	private JRadioButton getRb2() {
+		if (rb2 == null) {
+			rb2 = new JRadioButton("딸기");
+			buttonGroup_1.add(rb2);
+			rb2.setBounds(261, 248, 70, 23);
+			rb2.setVisible(false);
+		}
+		return rb2;
+	}
+	private JRadioButton getRb3() {
+		if (rb3 == null) {
+			rb3 = new JRadioButton("맹고");
+			buttonGroup_1.add(rb3);
+			rb3.setBounds(392, 248, 70, 23);
+			rb3.setVisible(false);
+		}
+		return rb3;
+	}
+	private JButton getBtnIN() {
+		if (btnIN == null) {
+			btnIN = new JButton("Insert");
+			btnIN.setBounds(135, 296, 256, 23);
+			btnIN.setVisible(false);
+		}
+		return btnIN;
+	}
+	private JMenu getMN1() {
+		if (MN1 == null) {
+			MN1 = new JMenu("File");
+			MN1.add(getMN1_mn1());
+		}
+		return MN1;
+	}
+	private JMenu getMN2() {
+		if (MN2 == null) {
+			MN2 = new JMenu("Help");
+			MN2.add(getMN2_mn1());
+		}
+		return MN2;
+	}
+	private JMenuItem getMN1_mn1() {
+		if (MN1_mn1 == null) {
+			MN1_mn1 = new JMenuItem("종료");
+		}
+		return MN1_mn1;
+	}
+	private JMenuItem getMN2_mn1() {
+		if (MN2_mn1 == null) {
+			MN2_mn1 = new JMenuItem("도움말");
+		}
+		return MN2_mn1;
+	}
+	//------------------------------------------
+	//메소드 작성
+	private void lighton() {
+		lblName.setVisible(true);
+		tfName.setVisible(true);
+		lblAdress.setVisible(true);
+		tfAdr.setVisible(true);
+		lblHobby.setVisible(true);
+		lblFruits.setVisible(true);
+		lblUserId.setVisible(true);
+		tfID.setVisible(true);
+		cb1.setVisible(true);
+		cb2.setVisible(true);
+		cb3.setVisible(true);
+		rb1.setVisible(true);
+		rb2.setVisible(true);
+		rb3.setVisible(true);
+		btnIN.setVisible(true);
+	}
+	
+	
+	
+	
+	
+	//-----------------------------------------
+}

@@ -1,0 +1,56 @@
+
+10월 31, 2018 12:08:19.93 NEW SESSION
+10월 31, 2018 12:08:19.93 [15268:17384:1031/120819.908:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 13:43:55.68 [20204:9336:1031/134355.680:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+10월 31, 2018 13:43:56.01 [20204:5076:1031/134356.014:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+10월 31, 2018 13:49:08.95 [20204:9336:1031/134908.954:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 14:13:53.36 [5364:6608:1031/141353.362:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 14:15:46.03 [10952:18416:1031/141546.036:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+10월 31, 2018 15:39:33.83 [10952:18416:1031/153933.838:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 16:13:42.15 [15988:17028:1031/161342.155:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 16:56:01.72 [18564:17864:1031/165601.721:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 16:56:51.32 [18828:15420:1031/165651.326:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 17:31:08.84 [11988:704:1031/173108.842:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 17:31:30.62 [1088:16296:1031/173130.629:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 17:33:38.81 [13292:19204:1031/173338.813:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 18:21:46.74 [3216:20428:1031/182146.746:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+10월 31, 2018 18:40:50.43 [12396:18288:1031/184050.436:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+10월 31, 2018 19:22:51.77 NEW SESSION
+10월 31, 2018 19:22:51.77 [8892:18704:1031/192251.753:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+11월 05, 2018 11:36:25.36 NEW SESSION
+11월 05, 2018 11:36:25.36 [7824:17120:1105/113625.349:ERROR:textfield.cc(1767)] NOT IMPLEMENTED
+11월 05, 2018 11:38:28.60 [7824:17120:1105/113828.600:ERROR:CONSOLE(5610)] "SyntaxError: Unexpected token < in JSON at position 0", source: chrome-devtools://devtools/bundled/shell.js (5610)
+11월 05, 2018 15:25:50.72 [7824:17120:1105/152550.725:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+11월 06, 2018 10:18:45.98 NEW SESSION
+11월 06, 2018 10:18:45.98 [1996:8096:1106/101845.968:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+11월 06, 2018 10:36:51.93 [16300:7980:1106/103651.928:ERROR:socket_stream.cc(219)] Closing stream with result -2
+11월 06, 2018 11:27:17.81 [16300:7980:1106/112717.811:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+11월 06, 2018 21:22:49.55 NEW SESSION
+11월 06, 2018 21:22:49.55 [17208:18152:1106/212249.540:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+11월 06, 2018 21:22:52.05 [17208:14832:1106/212252.059:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+11월 06, 2018 21:23:03.50 [17208:14832:1106/212303.503:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+11월 06, 2018 21:26:06.10 [17208:14832:1106/212606.099:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
+11월 06, 2018 21:26:17.35 [17208:14832:1106/212617.354:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+
+11월 07, 2018 12:36:44.77 NEW SESSION
+11월 07, 2018 12:36:44.77 [12676:12740:1107/123644.766:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+11월 07, 2018 12:59:44.62 [8356:5348:1107/125944.624:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+11월 07, 2018 12:59:44.77 [8356:12428:1107/125944.769:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+11월 07, 2018 12:59:50.70 [8356:12428:1107/125950.700:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+11월 07, 2018 13:20:54.36 [8356:14092:1107/132054.360:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+11월 07, 2018 13:40:35.76 [8356:14092:1107/134035.764:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+11월 10, 2018 09:56:20.43 NEW SESSION
+11월 10, 2018 09:56:20.43 [8692:3408:1110/095620.430:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Invalid credentials (1).
+
+11월 12, 2018 20:09:47.44 NEW SESSION
+11월 12, 2018 20:09:47.44 [23340:25052:1112/200947.440:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Invalid credentials (1).
+11월 12, 2018 20:10:02.13 [23340:25052:1112/201002.136:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+11월 12, 2018 20:10:11.10 [1660:24152:1112/201011.098:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Invalid credentials (1).
+11월 12, 2018 20:10:24.56 [1660:24152:1112/201024.567:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+11월 12, 2018 20:11:12.14 [15456:14516:1112/201112.142:ERROR:account_tracker.cc(242)] AccessTokenFetched error: Invalid credentials (1).
+11월 12, 2018 20:14:01.39 [15456:25968:1112/201401.398:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -106
