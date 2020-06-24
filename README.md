@@ -1,4 +1,6 @@
 # 🗃Java-Basic-Training
+Java basic training code
+
 
 ## 1.Eclipse workspace
 A1_Hello
